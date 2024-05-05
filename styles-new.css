@@ -1,5 +1,28 @@
-   h1 {
-       color: blue;
-       font-size: 24px;
+/* Ветка branch1 */
+h1 {
+    color: red;
+    font-size: 28px;
+}
+/* Ветка branch2 */
+th {
+    background-color: lightblue;
+    color: white;
+    font-size: 16px;
+}
+   /* branch3 */
+   .table-cell {
+       background-color: lightblue;
+       color: white;
+       font-size: 16px;
    }
+   
+   /* branch4 */
+   .table-cell {
+       background-color: lightgreen;
+       color: black;
+       font-size: 14px;
+       border: 1px solid gray;
+   }
+   
+   
    
